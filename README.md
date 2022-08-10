@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taylor Jean</h1>
 <h3 align="center">A passionate fullStack SoftwareEngineer from Vancouver BC</h3>
 
-<p align="left"> <a href="https://twitter.com/taylorjeandev" target="blank"><img src="https://img.shields.io/twitter/follow/taylorjeandev?logo=twitter&style=for-the-badge" alt="taylorjeandev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/taylorjeandev" target="blank"></a> </p>
 
 - 🌱 I’m currently learning **Solidity**
 
