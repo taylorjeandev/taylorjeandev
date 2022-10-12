@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **taylorgjean@gmail.com**
 
-- 📄 Know about my experiences [https://taylorjeandev.github.io/resume-website/](https://taylorjeandev.github.io/resume-website/)
-
 - ⚡ Fun fact **I was an audio engineer in a past life.**
 
 ### Blogs posts
