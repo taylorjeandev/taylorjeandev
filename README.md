@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/taylorjeandev" target="blank"><img src="https://img.shields.io/twitter/follow/taylorjeandev?logo=twitter&style=for-the-badge" alt="taylorjeandev" /></a> </p>
 
-- 🌱 I’m currently learning **React && Solidity**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [taylors-portfolio.vercel.app](taylors-portfolio.vercel.app)
 
