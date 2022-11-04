@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [taylors-portfolio.vercel.app]](https://taylors-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://taylors-portfolio.vercel.app]](https://taylors-portfolio.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@taylorjeandev](https://medium.com/@taylorjeandev)
 
