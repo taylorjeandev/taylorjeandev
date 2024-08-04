@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://taylors-portfolio.vercel.app](https://taylors-portfolio.vercel.app/)
-
-- 📝 I regularly write articles on [https://medium.com/@taylorjeandev](https://medium.com/@taylorjeandev)
-
 - 📫 How to reach me **taylorgjean@gmail.com**
 
 - ⚡ Fun fact **I was an audio engineer in a past life.**
